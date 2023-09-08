@@ -1,5 +1,12 @@
 # EBNF 
 
+## Anmerkung Optor
+Ausprobiert. Siehe sandbox. Funktioniert, die Tests laufen mit Ruby 3 durch. 
+
+Ich habe das calc Beispiel angeschaut.
+Die "Produktionen" werden in den Knoten des Baumes aufgerufen und dort kann das gewünschte Verhalten programmiert werden.
+
+
 [EBNF][] parser and generic parser generator.
 
 [![Gem Version](https://badge.fury.io/rb/ebnf.svg)](https://badge.fury.io/rb/ebnf)
